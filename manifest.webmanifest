@@ -1,0 +1,1 @@
+{"name":"CRESCENDO Sim","short_name":"CRESCENDO","description":"Drive a 2024 FRC robot in your browser.","start_url":"/crescendo-sim/","display":"standalone","background_color":"#121316","theme_color":"#f28c28","lang":"en","scope":"/crescendo-sim/","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
